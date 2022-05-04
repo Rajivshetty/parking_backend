@@ -13,11 +13,11 @@
 	<artifactId>parking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>parking</name>
-	<description>Demo project for Spring Boot</description>
+	<description>parking</description>
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.coverage.exclusions>**/entity/*,**/dto/*,**/api/*,**/util/*,**/exception/*,**/config/*,**/utils/*,**/schedulder/*,**/repository/*</sonar.coverage.exclusions>
+		<sonar.host.url>http://54.204.75.52:9000/</sonar.host.url>
 	</properties>
 
 	<dependencies>
